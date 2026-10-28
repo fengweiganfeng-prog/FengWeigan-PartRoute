@@ -1,0 +1,16 @@
+{
+  "tests_passed": 8,
+  "notebook_code_cells": 9,
+  "embedded_figures": 7,
+  "report_pages": 7,
+  "report_figures": 7,
+  "training_episodes": 15000,
+  "main_evaluation_rows": 5760,
+  "main_cases_per_scenario": 80,
+  "budget_evaluation_rows": 1440,
+  "all_notebook_cells_English": true,
+  "notebook_errors": 0,
+  "public_csv_sha256": "3dd88c980a361ddcfb32fda4f4511b2b86154a86681790ae96a42c19a3abf3ab",
+  "notebook_execution_method": "IPython InteractiveShell, ordered cells with real rich-output capture",
+  "pdf_layout_review": "all seven pages visually inspected"
+}

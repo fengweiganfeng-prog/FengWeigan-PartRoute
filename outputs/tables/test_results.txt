@@ -1,0 +1,13 @@
+test_accounting_and_deadline (test_core.CoreTests.test_accounting_and_deadline) ... ok
+test_closure_and_connectivity (test_core.CoreTests.test_closure_and_connectivity) ... ok
+test_deterministic_exogenous_conditions (test_core.CoreTests.test_deterministic_exogenous_conditions) ... ok
+test_dqn_finite_replay_update (test_core.CoreTests.test_dqn_finite_replay_update) ... ok
+test_invalid_data_rejected (test_core.CoreTests.test_invalid_data_rejected) ... ok
+test_mask_and_no_repeat (test_core.CoreTests.test_mask_and_no_repeat) ... ok
+test_network_gradient (test_core.CoreTests.test_network_gradient) ... ok
+test_terminal_and_immediate_exit (test_core.CoreTests.test_terminal_and_immediate_exit) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.036s
+
+OK

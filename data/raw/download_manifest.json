@@ -1,0 +1,20 @@
+{
+  "url": "https://raw.githubusercontent.com/junhua/SCAIR/ff457ed9c177c98dfe92ec5d8df608dfd8de0a8a/data/POI-MagicK.csv",
+  "resolved_url": "https://raw.githubusercontent.com/junhua/SCAIR/ff457ed9c177c98dfe92ec5d8df608dfd8de0a8a/data/POI-MagicK.csv",
+  "status_code": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "bytes": 1713,
+  "sha256": "3dd88c980a361ddcfb32fda4f4511b2b86154a86681790ae96a42c19a3abf3ab",
+  "commit": "ff457ed9c177c98dfe92ec5d8df608dfd8de0a8a",
+  "checked_utc": "2026-10-01T05:30:44.948475+00:00",
+  "validation": {
+    "rows": 27,
+    "columns": 8,
+    "missing_values": 0,
+    "duplicate_ids": 0,
+    "rating_min": 3.2,
+    "rating_max": 4.7,
+    "duration_min": 1.5,
+    "duration_max": 30.0
+  }
+}

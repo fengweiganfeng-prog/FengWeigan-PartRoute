@@ -1,0 +1,28 @@
+{
+  "elapsed_seconds": 25.79731112497393,
+  "episodes_per_agent": 2500,
+  "train_seeds": [
+    11,
+    22,
+    33
+  ],
+  "validation_cases": 24,
+  "validation_seeds": [
+    5000000,
+    5000023
+  ],
+  "test_seed_start": 9000000,
+  "architecture": [
+    79,
+    48,
+    48,
+    12
+  ],
+  "gamma": 0.98,
+  "replay_capacity": 12000,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "target_update_gradient_steps": 200,
+  "train_every_transitions": 2
+}
